@@ -19,6 +19,10 @@ Demonstrates proficiency in low-level programming concepts such as string manipu
 
 Clone the repository and compile the provided code using a C compiler.
 Utilize ft_printf in C projects for formatted output functionalities.
+### commmand example:
+1- make all
+2- gcc main.c libftprintf.a
+3- ./a.out
 ## Note:
 
 This repository is a project assignment and may contain solutions specific to course requirements.
